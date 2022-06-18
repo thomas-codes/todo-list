@@ -1,4 +1,4 @@
-near-blank-project
+near-todolist-project
 ==================
 
 This [React] app was initialized with [create-near-app]
